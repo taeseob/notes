@@ -1,8 +1,14 @@
 # notes
 기억 해 둘 것들
 
-[컴퓨터 노트](computer/computer.md)
+[컴퓨터 노트](컴퓨터.md)
 
-[투자 노트](investment/investment.md)
+[투자 노트](투자.md)
 
-[영어 노트](english/english.md)
+[영어 노트](영어.md)
+
+[수학 노트](수학.md)
+
+[자연과학, 기술 및 공학 노트](자연과학-기술-및-공학.md)
+
+[인문학 및 사회과학 노트](인문학-및-사회과학.md)
